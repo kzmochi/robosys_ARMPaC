@@ -1,0 +1,9 @@
+2024-09-30 00:00:10,439 [INFO] Gpio:277 - dependency for GPIO []
+2024-09-30 00:00:25,838 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,613x271,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-09-30 00:02:25,153 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-09-30 00:04:19,166 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 288569120 Bytes (741343232)
+2024-09-30 00:09:08,396 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 406500824 Bytes (741343232)
+2024-09-30 11:03:48,145 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-09-30 11:05:06,654 [INFO] DmaTabbedPanel:205 - Cannot restore the selected Tab for DMA
+2024-09-30 11:06:54,388 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 170106544 Bytes (549453824)
+2024-09-30 11:07:04,212 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 197369520 Bytes (549453824)
