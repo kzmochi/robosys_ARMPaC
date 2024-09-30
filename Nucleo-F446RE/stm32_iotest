@@ -1,0 +1,20 @@
+Copyright 2024 Kazumichi Suzuki(ketunii3@gmail.com
+------------------------------
+STM32 IO TEST Document
+Board: NUCLEO-F446RE
+-----------------------------
+
+1. Lチカ
+「Start new STM32 Project」を選択して、GUI設定ツールを起動する。
+「Parts number search」から「STM32F446RET6」を選択しNext
+      注意：my STにログインされていないと警告された場合
+           Help横にあるmy_STからログインする
+.iocファイルにClock,PIN,NVICを設定
+code generate --> STM32 f4向けのフレームワークを自動ダンロードが始まる
+
+コード生成されない問題
+code generateする際に「code generarion could not be done most probably...」
+と警告がでてコードが生成されない。
+Firmware packageが不足していることが原因のため、
+my_STにログインした状態でcode generateすると自動的に最新のパッケージを
+インストールしてくれる。
