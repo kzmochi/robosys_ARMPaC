@@ -1,33 +1,33 @@
-!SESSION 2024-09-29 21:16:44.519 -----------------------------------------------
+!SESSION 2024-10-06 00:52:28.801 -----------------------------------------------
 eclipse.buildId=Version 1.16.1
 java.version=17.0.11
 java.vendor=Eclipse Adoptium
 BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=ja_JP
 Command-line arguments:  -os linux -ws gtk -arch x86_64
 
-!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-09-29 23:04:24.889
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-10-06 00:52:41.058
 !MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
 
-!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-09-29 23:04:24.890
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-10-06 00:52:41.059
 !MESSAGE Log4j2 initialized with config file /home/suzuki/GIT/robosys_ARMPaC/Nucleo-F446RE/.metadata/.log4j2.xml
 
-!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-09-29 23:04:36.799
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-10-06 00:52:47.197
 !MESSAGE Started RMI Server, listening on port 41337
-!SESSION 2024-09-30 11:17:05.542 -----------------------------------------------
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-10-06 00:56:53.932
+!MESSAGE Indexed 'Blinky' (22 sources, 82 headers) in 10.1 sec: 5,038 declarations; 26,556 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0063%)
+!SESSION 2024-10-06 01:20:55.569 -----------------------------------------------
 eclipse.buildId=Version 1.16.1
 java.version=17.0.11
 java.vendor=Eclipse Adoptium
 BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=ja_JP
 Command-line arguments:  -os linux -ws gtk -arch x86_64
 
-!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-09-30 11:17:32.344
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-10-06 01:21:16.202
 !MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
 
-!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-09-30 11:17:32.347
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-10-06 01:21:16.203
 !MESSAGE Log4j2 initialized with config file /home/suzuki/GIT/robosys_ARMPaC/Nucleo-F446RE/.metadata/.log4j2.xml
 
-!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-09-30 11:17:39.700
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-10-06 01:21:25.389
 !MESSAGE Started RMI Server, listening on port 41337
-
-!ENTRY org.eclipse.cdt.core 1 0 2024-09-30 11:52:44.589
-!MESSAGE Indexed 'Blinky' (19 sources, 81 headers) in 7.23 sec: 4,562 declarations; 21,961 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0075%)
